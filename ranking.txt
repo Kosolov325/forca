@@ -1,0 +1,2 @@
+CALADO = 9
+YAGO = 2
